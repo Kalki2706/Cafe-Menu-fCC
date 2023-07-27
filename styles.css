@@ -18,13 +18,6 @@ body {
   padding: 2em;
 }
 
-hr {
-  background: #a52a2a;
-  color: #a52a2a;
-  height: 0.3em;
-  width: 100%;
-}
-
 .head-content {
   text-align: center;
 }
@@ -39,4 +32,11 @@ hr {
   font-size: 1.3rem;
   font-family: sans-serif;
   font-style: italic;
+}
+
+hr {
+  background: #a52a2a;
+  color: #a52a2a;
+  height: 0.3em;
+  width: 100%;
 }/*# sourceMappingURL=styles.css.map */
