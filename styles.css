@@ -1,1 +1,11 @@
-/*# sourceMappingURL=styles.css.map */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}/*# sourceMappingURL=styles.css.map */
