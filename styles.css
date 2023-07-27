@@ -12,4 +12,11 @@ body {
 
 .container {
   background: #deb887;
+}
+
+hr {
+  background: #a52a2a;
+  color: #a52a2a;
+  height: 0.5em;
+  width: 100%;
 }/*# sourceMappingURL=styles.css.map */
