@@ -9,6 +9,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  padding: 0 0.5em;
 }
 
 .container {
@@ -44,4 +45,7 @@ hr {
 .menu-name {
   padding: 1em 0;
   text-align: center;
+}
+.menu-name h2 {
+  font-size: 2.4rem;
 }/*# sourceMappingURL=styles.css.map */
