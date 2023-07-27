@@ -25,4 +25,9 @@ hr {
 
 .head-content {
   text-align: center;
+}
+.head-content h1 {
+  font-size: 3rem;
+  text-transform: uppercase;
+  line-height: 1em;
 }/*# sourceMappingURL=styles.css.map */
