@@ -60,4 +60,10 @@ hr {
 
 .menu > .mb-b {
   margin-bottom: 1em;
+}
+
+.copyrights {
+  text-align: center;
+  padding-top: 1em;
+  line-height: 1.8em;
 }/*# sourceMappingURL=styles.css.map */
