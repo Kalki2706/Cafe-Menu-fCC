@@ -1,9 +1,10 @@
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-  margin: 0;
   background: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
   background-repeat: no-repeat;
   background-size: cover;
