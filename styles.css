@@ -66,4 +66,20 @@ hr {
   text-align: center;
   padding-top: 1em;
   line-height: 1.8em;
+}
+.copyrights a {
+  color: #000;
+  transition: color 0.15s;
+}
+.copyrights a:link {
+  color: #000;
+}
+.copyrights a:visited {
+  color: #08225a;
+}
+.copyrights a:hover {
+  color: #a52a2a;
+}
+.copyrights a:active {
+  color: rgba(165, 42, 42, 0.8470588235);
 }/*# sourceMappingURL=styles.css.map */
