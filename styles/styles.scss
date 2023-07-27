@@ -79,21 +79,21 @@ hr {
   a {
     color: #000;
     transition: color 0.15s;
-  }
 
-  a:link {
-    color: #000;
-  }
+    &:link {
+      color: #000;
+    }
 
-  a:visited {
-    color: #08225a;
-  }
+    &:visited {
+      color: #08225a;
+    }
 
-  a:hover {
-    color: #a52a2a;
-  }
+    &:hover {
+      color: #a52a2a;
+    }
 
-  a:active {
-    color: #a52a2ad8;
+    &:active {
+      color: #a52a2ad8;
+    }
   }
 }
